@@ -5,7 +5,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.utils import executor
 
 # ========== НАСТРОЙКИ ==========
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9042488275:AAHR4iY_ck7k4pAI22k-b_zq_QPGe7AIZyI")
 PDF_PATH = "kurs-7-siblings.pdf"
 
 # Список каналов для проверки (ID и юзернейм)
