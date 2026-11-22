@@ -115,4 +115,3 @@ if __name__ == "__main__":
         skip_updates=True,
         allowed_updates=["message", "callback_query", "chat_join_request", "chat_member"],
     )
-﻿
