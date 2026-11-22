@@ -5,7 +5,7 @@ from aiogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from aiogram.utils import executor
 
 # ========== НАСТРОЙКИ ==========
-BOT_TOKEN = os.environ.get("BOT_TOKEN", " ")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "9042488275:AAHR4iY_ck7k4pAI22k-b_zq_QPGe7AIZyI")
 
 # Ссылка на курс на твоём сайте (файл больше не отправляем из Telegram)
 PDF_LINK = "https://nakerosine.ru/crypto/kurs-7-siblings-print.html"
